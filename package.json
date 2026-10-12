@@ -1,0 +1,5 @@
+{
+  "name": "addis-hiwot-sacco",
+  "private": true,
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
